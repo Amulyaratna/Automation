@@ -8,6 +8,7 @@ public class AppTest
 	public void shouldAnswerWithTrue()
 	{
 		System.out.println("Learning maven");
+		System.out.println("Learning maven 2");
 	}
 
 }
