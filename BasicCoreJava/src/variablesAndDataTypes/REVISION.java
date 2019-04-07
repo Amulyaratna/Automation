@@ -8,7 +8,7 @@ public class REVISION {
 		System.out.println(age);
 		
 		//array -homogeneous data
-		//10,true,anand -here we have to use object.object is superclass
+		//10,true,anand -here we have to use object.object is superclass in java
 		Object[]obj=new Object[3];
 		obj[0]=10;
 		obj[1]=true;

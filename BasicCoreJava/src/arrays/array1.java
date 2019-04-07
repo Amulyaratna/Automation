@@ -1,7 +1,7 @@
 package arrays;
 
 public class array1 {
-
+public String name="Pradnya";
 	public static void main(String[] args) 
 	//single and multidimentional arrays
 	{
@@ -33,4 +33,14 @@ for(String pradnya:str)
 	
 	}
 
+public void test() // non static function
+{
 }
+
+public static array1 fun()
+{
+	array1 obj= new array1();
+	return obj;
+}
+}
+
